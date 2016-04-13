@@ -1,36 +1,8 @@
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-
+//===========================================================================
+//=  to run on linux you can use =
+//=    - gcc exp.c -lm           =
+//=    - ./a.out                 =
+//===========================================================================
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
